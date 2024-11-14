@@ -1,0 +1,2 @@
+# MykafkaIntegration
+MyKafkaIntegration is a project where Kafka was integrated to facilitate messaging between different components of the application. In this project, both a Kafka producer and consumer were created to handle message sending and receiving. The producer sends messages to a Kafka topic, while the consumer processes messages from the topic, enabling efficient real-time data flow and decoupling of microservices in the application.
